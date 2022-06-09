@@ -1,0 +1,101 @@
+<!-- * Esai Ramos -->
+
+<!DOCTYPE html> 
+
+<html lang = "en-US">
+
+        
+
+    <head>
+       
+        <meta charset= "utf-8"/>
+
+        <link rel="stylesheet" type="text/css" href="allPages.css" media="screen"/>
+
+        <link href='https://fonts.googleapis.com/css?family=Calistoga' rel='stylesheet'>
+
+
+        <!-- * This is the text shown on the tab of the page. -->
+
+        <title>* PROUD HOME PAGE *</title>
+
+            </head>
+
+        <!-- * Contained within the <style> tags are the design aspects of the homepage that organize the contents of the html in a visually appealing manner -->
+        
+    
+    <body id = "body" onload="Alert()">
+
+        <!-- * This is a <h1> tag with the id "welcome" attached to it with additional stylesheets -->
+
+        <div style = text-align:center; >
+
+            <h1 id = "headerOne"> Welcome Student.</h1>
+
+            </div>
+    
+
+        <!-- * These <ul> or unordered list tags hold the hyper reference links to other related pages -->
+
+        <ul>
+            <li><a href="Proud.html">Home</a></li>
+
+            <li><a href="Calender.html">Calender</a></li>
+
+            <li><a href="Schedule.html">Schedule</a></li>
+
+            <li><a href="about.asp">About</a></li>
+
+          </ul>
+
+
+
+    
+        <!--* This a <script> for an audio file and button displayed on the page -->
+
+        <!-- *The function play() is able to play the new Audio within the page due to the class = "button" -->
+
+        <script>
+
+            function play(){
+
+            
+           var audio = new Audio("https://cdn.pixabay.com/download/audio/2021/07/30/audio_24b5de01ac.mp3?filename=elevator-music-5805.mp3");
+                audio.play();
+
+            };
+
+            function Alert() {
+                alert("Click the donut!");
+                }
+
+        </script>
+
+        <!-- * This is a <div> tag with the class = "button" along with an "onclick" event attached to an image-->
+
+        <div class= "button">
+
+            <button onclick= 'play();'>
+                <img src = "https://thumbs.gfycat.com/DentalFlakyGoldenmantledgroundsquirrel.webp">
+                
+                </button>
+                
+        </div>
+
+            </body>
+</html>
+
+
+<!-- 
+todo     A home page that allows students to navigate to the calendar
+
+todo     menu and scheduling pages (see diagram below).
+
+todo     A calendar page to list available times of tutors and their hours.
+
+todo     A menu page describing courses and languages covered by tutors.
+
+todo     A scheduling page to reserve/change a time with a programming tutor.
+-->
+
+

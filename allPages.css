@@ -1,0 +1,164 @@
+        
+        /* * ------------------------------- header one------------------------------------------- */
+
+        #headerOne{
+
+                font-family: 'Calistoga';
+                font-weight: 700;
+                margin: auto;
+                margin-top: 150px;
+                width:600px;
+                background-color: cornsilk;
+                font-size: 100px;
+
+        }
+
+        /* * ----------------------------------------------------------------- */
+
+
+        /* *----------------------------- unordered_list ----------------------------- */
+
+        ul {
+
+                list-style-type:none;
+                margin: auto;
+                margin-right:550px;
+                margin-top: 10px;
+                margin-bottom: 100px;
+                width: 400px;
+                font-family: 'Calistoga';
+                font-weight: 700;
+                font-size:50px;
+                text-align: center;
+
+        }
+
+        li a:hover {
+
+                display:block;
+                background-color:cornsilk;
+                
+        }
+
+        /* *-------------------------------------------------------------------------- */
+
+
+
+
+        /* * ------------------------ simple background rainbow ----------------------- */
+
+        #body{
+
+                background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecf6cbd0-1a13-4c41-b49b-5a9750520ff7/d93u47u-481a2ed8-1c1e-4ab9-9646-51fb27925bac.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjZjZjYmQwLTFhMTMtNGM0MS1iNDliLTVhOTc1MDUyMGZmN1wvZDkzdTQ3dS00ODFhMmVkOC0xYzFlLTRhYjktOTY0Ni01MWZiMjc5MjViYWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e0QDohGV_-DLjxcv9yK_O_4GnC29NZLshtEp2PEeJwQ");
+                background-color: #cccccc;
+                       
+        }
+
+        /* *-------------------------------------------------------------------------- */
+
+
+
+        /* *---------------------------------- audio --------------------------------- */
+
+        
+
+        .button button{
+
+                background-color: transparent;
+                margin-left: 500px;
+                margin-bottom: 50px;
+                border-color: transparent;
+
+        }
+        .button button:hover{
+                background-color: pink;
+        }
+
+        
+
+        table {
+
+                border-collapse: collapse;
+                background: white;
+                color: black;
+
+            }
+            th, td { 
+
+                font-weight: bold;
+
+            }
+
+
+        /* *----------------------------- caldender --------------------------------------------- */
+
+        #calender{
+
+                font-family: 'Calistoga';
+                font-weight: 700;
+                margin-left: 550px;
+                margin-right: 500px;
+                font-size: 100px;
+                background-color: cornsilk;
+                width: 450px;
+                text-align: center;
+        }
+
+        #title{
+
+                text-decoration: black;
+                font-family: 'calistoga';
+                font-weight:700;
+                background-color: cornsilk;
+                text-align: center;
+                margin-left: 500px;
+                margin-right: 500px;
+               
+        }
+
+        #tbody{
+
+                background-color: cornsilk;
+                font-family: 'calistoga';
+                font-weight:700;
+
+                   
+        }
+
+        
+        /* * This is a class with a hover attached to the <td> tags within the <tr> tags */
+
+        .rows {
+                font-size: large;
+                font-family: 'calistoga';
+                font-weight: 700;
+               
+               
+        }
+
+        .rows td:hover{
+
+                background-color: greenyellow;
+                font-size: large;
+                font-family: 'calistoga';
+                font-weight: 700;
+                
+               
+        }
+
+      
+
+        /* *---------------------------------background of calender----------------------------------------- */
+
+        #background{
+
+                background-image: url("https://i.pinimg.com/originals/c0/8b/8e/c08b8e01c5d2ff79a106c5345fc27220.gif");
+                
+
+        }
+
+        /* *-------------------------------------------------------------------------- */
+
+
+
+       

@@ -1,0 +1,159 @@
+body {
+ 
+    mix-blend-mode: darken;
+    
+}
+ 
+
+
+#header {
+  
+    text-align: center;
+    font-family: 'Calistoga';
+    font-weight: 700;
+    margin-left: 550px;
+    margin-right: 500px;
+    font-size: 50px;
+    background-color: cornsilk;
+    width: 450px;
+    text-align: center;
+    
+}
+ 
+table {
+    margin-top: 2%;
+    width: max-content;
+    border: 10px solid rgb(0, 0, 0);
+    height: 300px;
+    margin-left: 200px;
+    margin-right:100px;
+
+  
+}
+ 
+td {
+    text-align: center;
+    border: 5px solid black;
+    background-image: url("https://www.cobosocial.com/wp-content/uploads/2021/03/Cat-Nyan-Gif.-Courtesy-of-Chris-Torres.gif.pagespeed.ce.fpgvaFnX1c.gif");
+    font-size: large;
+    font-family: 'Calistoga';
+    font-weight: 700;
+    
+}
+ 
+#blank {
+    color: white;
+    background-color: #fff;
+}
+ 
+#s {
+
+    color:white;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: 'Calistoga';
+    background-color: #ffffff;
+}
+ 
+#seminar {
+    font-weight: 700;
+    font-family: 'Calistoga';
+    background-color: #ffffff;
+    text-transform: uppercase;
+    color: white;
+}
+ 
+#sub {
+    color: white;
+    font-family: 'Calistoga';
+    font-weight: 700;
+    background-color: #ffffff;
+}
+ 
+#sub1 {
+    background-color: #fff;
+}
+ 
+#sub2 {
+    color: white;
+    text-transform: uppercase;
+    background-color: #ffffff;
+}
+ 
+#sub3 {
+    background-color: #ffffff;
+    font-family: 'Calistoga';
+    font-weight: 800;
+    color: white;
+}
+ 
+#box1 {
+    color: cornflowerblue;
+    font-family: 'Calistoga';
+    font-weight: 800;
+}
+ 
+#box2 {
+    color: darkorange;
+    font-weight: 800;
+    font-family: 'Calistoga';
+}
+ 
+#box3 {
+    color: darkviolet;
+    font-weight: 800;
+    font-family: 'Calistoga';
+}
+ 
+#box4 {
+    color: green;
+    font-weight: 800;
+    font-family: 'Calistoga';
+}
+ 
+#box5 {
+    color: red;
+    font-family: 'Calistoga';
+    font-weight: 800;
+}
+ 
+#box6 {
+    color: hotpink;
+    font-weight: 800;
+    font-family: 'Calistoga';
+}
+ 
+#box7 {
+    color: blue;
+    font-family: 'Calistoga';
+    font-weight: 800;
+}
+
+#lunch{
+    color:white;
+    font-family: 'Calistoga';
+    font-weight:bolder;
+    font-size: larger;
+}
+
+ul {
+
+    list-style-type:none;
+    margin: auto;
+    margin-right:550px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    width: 400px;
+    font-family: 'Calistoga';
+    font-weight: 700;
+    font-size:50px;
+    text-align: center;
+
+}
+
+li a:hover {
+
+    display:block;
+    background-color:cornsilk;
+    
+}
