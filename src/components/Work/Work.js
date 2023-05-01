@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Work.scss';
+import pongGif from '../../Assets/pong.gif';
 
 function Work() {
   return (
@@ -22,6 +23,9 @@ function Work() {
         <h2>Projects</h2>
         <ul>
           <li>Project A, XYZ Company, 2018-present</li>
+          <li>
+            <img src={pongGif} alt="pong game gif" />
+          </li>
           <li>Project B, ABC Agency, 2016-2018</li>
         </ul>
         <h2>Clients</h2>

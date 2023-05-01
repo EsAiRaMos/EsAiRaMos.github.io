@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Contact.scss';
+import phone from '../../Assets/200w.gif';
 
 function Contact() {
   return (
@@ -33,6 +34,7 @@ function Contact() {
             <a href="https://www.instagram.com/example">Instagram</a>
           </li>
         </ul>
+        <img src={phone} alt ="phone gif"/>
       </div>
     </div>
   );
