@@ -1,0 +1,121 @@
+.body-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  background-color: #333;
+}
+.body-container .hero {
+  background-color: #f7f7f7;
+  text-align: center;
+  padding: 100px 0;
+  margin-top: 50px;
+}
+.body-container .hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+.body-container .hero p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+.body-container .hero button {
+  background-color: #007bff;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.body-container .hero button:hover {
+  background-color: #0062cc;
+}
+.body-container .features {
+  display: flex;
+  justify-content: space-between;
+  margin: 80px 0;
+}
+.body-container .features .feature {
+  width: calc(33.33% - 20px);
+  padding: 40px;
+  background-color: #f7f7f7;
+  border-radius: 50px;
+  text-align: center;
+}
+.body-container .features .feature h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.body-container .features .feature p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+.body-container .testimonial {
+  text-align: center;
+  background-color: #007bff;
+  color: #fff;
+  padding: 60px;
+}
+.body-container .testimonial p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+.body-container .testimonial h3 {
+  font-size: 32;
+}
+
+.navbar {
+  background-color: #f7f7f7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  height: 80px;
+}
+.navbar .navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+.navbar .navbar-nav {
+  display: flex;
+  list-style: none;
+}
+.navbar .navbar-nav li {
+  margin-right: 20px;
+}
+.navbar .navbar-nav li a {
+  font-size: 20px;
+  color: #333;
+  text-decoration: none;
+}
+.navbar .navbar-nav li a:hover {
+  color: #007bff;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 60px;
+  text-align: center;
+}
+.footer p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.footer ul li {
+  margin: 0 10px;
+}
+.footer ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+.footer ul li a:hover {
+  text-decoration: underline;
+}
