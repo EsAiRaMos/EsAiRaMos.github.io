@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.356a6ef7.css",
-    "main.js": "/static/js/main.6a22b30f.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "index.html": "/index.html",
-    "main.356a6ef7.css.map": "/static/css/main.356a6ef7.css.map",
-    "main.6a22b30f.js.map": "/static/js/main.6a22b30f.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/EsAiRaMos/EsAiRaMos.github.io/static/css/main.356a6ef7.css",
+    "main.js": "/EsAiRaMos/EsAiRaMos.github.io/static/js/main.b8794a16.js",
+    "static/js/787.1ed0c42c.chunk.js": "/EsAiRaMos/EsAiRaMos.github.io/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/EsAiRaMos/EsAiRaMos.github.io/index.html",
+    "main.356a6ef7.css.map": "/EsAiRaMos/EsAiRaMos.github.io/static/css/main.356a6ef7.css.map",
+    "main.b8794a16.js.map": "/EsAiRaMos/EsAiRaMos.github.io/static/js/main.b8794a16.js.map",
+    "787.1ed0c42c.chunk.js.map": "/EsAiRaMos/EsAiRaMos.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.356a6ef7.css",
-    "static/js/main.6a22b30f.js"
+    "static/js/main.b8794a16.js"
   ]
 }
