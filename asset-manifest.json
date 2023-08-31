@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.0a3282f2.css",
-    "main.js": "/website/static/js/main.74d37f87.js",
-    "static/js/787.71e672d5.chunk.js": "/website/static/js/787.71e672d5.chunk.js",
-    "static/media/optimized_IMG_9428.svg": "/website/static/media/optimized_IMG_9428.4b2e8a672bbacdbffb0c0337a61c65c9.svg",
-    "static/media/Futura Book font.ttf": "/website/static/media/Futura Book font.ed19af444f0976dbaf41.ttf",
-    "index.html": "/website/index.html",
-    "main.0a3282f2.css.map": "/website/static/css/main.0a3282f2.css.map",
-    "main.74d37f87.js.map": "/website/static/js/main.74d37f87.js.map",
-    "787.71e672d5.chunk.js.map": "/website/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/EsAiRaMos.github.io/static/css/main.a25e28b2.css",
+    "main.js": "/EsAiRaMos.github.io/static/js/main.a79fee04.js",
+    "static/js/787.71e672d5.chunk.js": "/EsAiRaMos.github.io/static/js/787.71e672d5.chunk.js",
+    "static/media/optimized_IMG_9428.svg": "/EsAiRaMos.github.io/static/media/optimized_IMG_9428.4b2e8a672bbacdbffb0c0337a61c65c9.svg",
+    "static/media/Futura Book font.ttf": "/EsAiRaMos.github.io/static/media/Futura Book font.ed19af444f0976dbaf41.ttf",
+    "index.html": "/EsAiRaMos.github.io/index.html",
+    "main.a25e28b2.css.map": "/EsAiRaMos.github.io/static/css/main.a25e28b2.css.map",
+    "main.a79fee04.js.map": "/EsAiRaMos.github.io/static/js/main.a79fee04.js.map",
+    "787.71e672d5.chunk.js.map": "/EsAiRaMos.github.io/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a3282f2.css",
-    "static/js/main.74d37f87.js"
+    "static/css/main.a25e28b2.css",
+    "static/js/main.a79fee04.js"
   ]
 }
