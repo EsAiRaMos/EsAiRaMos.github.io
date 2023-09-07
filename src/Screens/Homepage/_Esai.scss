@@ -1,0 +1,11 @@
+.esai-container {
+  display: flex;
+  margin: auto;
+
+  img {
+    border: #800020 solid 4px;
+    border-radius: 40px;
+    width: 100%; /* Make the image responsive */
+    max-width: 200px; /* Increase the max-width as needed for larger image size */
+  }
+}

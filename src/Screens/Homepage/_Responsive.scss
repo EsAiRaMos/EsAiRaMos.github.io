@@ -1,0 +1,20 @@
+// _responsive.scss
+
+@media (max-width: 768px) {
+    // Styles for small screens
+    .main-container {
+        background-color: lightpink;
+    }
+}
+
+/* navbar import */
+.nav-container {
+    @media (max-width: 768px) {
+      flex-direction: column;
+      text-align: center;
+  
+      main {
+        padding: 1rem;
+      }
+    }
+  }

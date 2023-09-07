@@ -4,13 +4,10 @@
 <svg
    version="1.1"
    id="svg132"
-   width="3000"
-   height="4000"
-   viewBox="0 0 3000 4000"
+   width="197"
+   height="262"
+   viewBox="0 0 197 262"
    sodipodi:docname="IMG_9428.svg"
-   inkscape:export-filename="bitmap.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -29,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.208"
-     inkscape:cx="1500"
-     inkscape:cy="2000"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-108.18734"
+     inkscape:cy="63.63961"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -43,8 +40,8 @@
      inkscape:label="Image"
      id="g138">
     <image
-       width="3000"
-       height="4000"
+       width="196.43118"
+       height="261.9082"
        preserveAspectRatio="none"
        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/4QFQRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
 AAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAABIAAAAAQAAAEgAAAABAA+QAAAH
@@ -13642,6 +13639,8 @@ hzx2rWkrOm6tWh0QbMK4YjmiOUFeD0pLr7tV4ehrrgdrehYM7DpUqyscDFUz1q1H94VyV9jyK5ow
 np2q4CCKpRdqtr0r5uuePIqSuoyAaps2Dmny9TUL15EjLmZbjkIHI4pXY4x0pi/dpZK9Kg2dFOTA
 MeMVJuNRL2p9fRU27Hon/9k=
 "
-       id="image140" />
+       id="image140"
+       x="0.5839833"
+       y="0.038790401" />
   </g>
 </svg>

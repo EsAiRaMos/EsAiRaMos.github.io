@@ -1,0 +1,13 @@
+/* Apply the custom font to your container */
+.main-container {
+    display: flex;
+    flex-direction: column;
+    font-family: 'CustomFont', sans-serif; /* Use the custom font, and fallback to a generic sans-serif font */
+    border: solid 2px #e1ad01;
+    padding: 3%;
+    border-radius: 10px;
+    margin: auto;
+    font-size: 20px;
+    color: white;
+    
+  }

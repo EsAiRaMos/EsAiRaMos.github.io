@@ -8,77 +8,19 @@
 /* Container styles */
 .website-container {
   display: flex;
-  background-color: black;
-  padding: 1%;
-  align-items: center;
-  margin-top: 7%;
+  background-color: #252B48;
+  padding: 5%;
+  margin-top: 5%;
+  border-radius: 50px;
 }
 
-.esai-container {
-  display: flex;
-  margin: auto;
-  img {
-    border: #800020 solid 4px;
-    border-radius: 100px;
-    width: 100%; /* Make the image responsive */
-    max-width: 400px;
-    height: auto;
-  }
-  caption{
-    font-family: 'CustomFont', sans-serif; /* Use the custom font, and fallback to a generic sans-serif font */
-    color: white;
-  }
-}
 
-/* Apply the custom font to your container */
-.main-container {
-  display: flex;
-  flex-direction: column;
-  justify-self: center;
-  font-family: 'CustomFont', sans-serif; /* Use the custom font, and fallback to a generic sans-serif font */
-  border: solid 1px #e1ad01;
-  padding: 1%;
-  border-radius: 10px;
-  margin: auto;
-  font-size: 20px;
-  color: white;
-}
 
-/* Custom navbar */
-.nav-container {
-  display: flex;
-  flex-direction: column;
-  font-family: 'CustomFont', sans-serif;
-  text-align: center;
-  border-radius: 10px;
-  border: solid #0a481e;
-  margin: auto;
+@import"./Esai";
 
-  main {
-    display: flex;
-    flex-direction: column;
-    font-family: 'CustomFont', sans-serif;
-    border-radius: 10px;
-    font-size: 15px;
-    color: white;
-    margin: auto;
+@import "./Main";
 
-    h3 {
-      margin: 5% auto;
-      padding: 20px;
-      border: 2px outset;
+@import"./Nav";
 
-      &:hover {
-        border-radius: 10px;
-        background-color: #800020;
-        border-style: inset;
-      }
-    }
-  }
-
-  header {
-    border-radius: 10px;
-    padding: 1rem;
-    color: white;
-  }
-}
+@import "./Responsive"; // Without the file extension
+// Other global styles

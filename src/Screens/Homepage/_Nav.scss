@@ -1,0 +1,37 @@
+/* navbar import*/
+.nav-container {
+    display: flex;
+    flex-direction: column;
+    font-family: 'CustomFont', sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    border: solid #0a481e;
+    margin: auto;
+    padding: 1%;
+    
+
+
+    & main {
+      display: flex;
+      flex-direction: column;
+      font-family: 'CustomFont', sans-serif;
+      border-radius: 10px;
+      font-size: 15px;
+      color: white;
+      
+      
+      & h3 {
+        border-radius: 10px;
+        padding: 20px;
+        border: 2px outset;
+        
+  
+        &:hover {
+          border-radius: 10px;
+          background-color: #800020;
+          border-style: inset;
+        }
+      }
+    }
+  
+  }
